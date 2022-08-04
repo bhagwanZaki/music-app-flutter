@@ -1,16 +1,29 @@
-# music_lyric_app
+# Music Lyrics App
 
-A new Flutter project.
+Music Lyrics App app provide lyrics of tracksusing MusicMix api services. The App is created on the basis of <b>Bloc pattern.</b>
 
-## Getting Started
+This app consist of 3 pages
+<ol>
+<li>Splash Screen</li>
+<li>Music List Screen</li>
+<li>Music Lyrics Screen</li>
+</ol>
 
-This project is a starting point for a Flutter application.
+## Images
 
-A few resources to get you started if this is your first Flutter project:
+### Splash Screen
+<p align="center" width="100%">
+    <img src="https://github.com/bhagwanZaki/react-dj-todo/blob/main/assests/logo.png"> 
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Music list screen
+<p align="center" width="100%">
+    <img src="https://github.com/bhagwanZaki/react-dj-todo/blob/main/assests/logo.png"> 
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Music Lyrics screen
+<p align="center" width="100%">
+    <img src="https://github.com/bhagwanZaki/react-dj-todo/blob/main/assests/logo.png"> 
+</p>
+
+
