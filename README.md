@@ -12,18 +12,18 @@ This app consist of 3 pages
 ## Images
 
 ### Splash Screen
-<p align="center" width="100%">
-    <img src="https://github.com/bhagwanZaki/react-dj-todo/blob/main/assests/logo.png"> 
+<p align="center" width="50%">
+    <img src="https://github.com/bhagwanZaki/music-app-flutter/blob/main/app%20screenshots/splashScreen.png"> 
 </p>
 
 ### Music list screen
-<p align="center" width="100%">
-    <img src="https://github.com/bhagwanZaki/react-dj-todo/blob/main/assests/logo.png"> 
+<p align="center" width="50%">
+    <img src="https://github.com/bhagwanZaki/music-app-flutter/blob/main/app%20screenshots/musicList.png"> 
 </p>
 
 ### Music Lyrics screen
-<p align="center" width="100%">
-    <img src="https://github.com/bhagwanZaki/react-dj-todo/blob/main/assests/logo.png"> 
+<p align="center" width="50%">
+    <img src="https://github.com/bhagwanZaki/music-app-flutter/blob/main/app%20screenshots/lyricsScreen.png"> 
 </p>
 
 
